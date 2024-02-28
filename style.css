@@ -1,0 +1,21 @@
+#text{
+    overflow: visible;
+    border: 1px solid black;
+    width: 100px;
+    height: 80px;
+}
+
+#save{
+    overflow: hidden;
+    border: 1px solid black;
+    width: 100px;
+    height: 80px;
+}
+
+
+#scroll{
+    width: 100px;
+    height: 80px;
+    border: 1px solid;
+    overflow: scroll;
+}
